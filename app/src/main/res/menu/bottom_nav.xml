@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--Attention: item id should be the same as id in navigation folder-->
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/knowledgesystem"
+        android:title="@string/knowledge_system"
+        android:icon="@drawable/ic_knowledgesystem"/>
+
+    <item
+        android:id="@+id/navigation"
+        android:title="@string/navigation"
+        android:icon="@drawable/ic_navigation"/>
+
+    <item
+        android:id="@+id/project"
+        android:title="@string/project"
+        android:icon="@drawable/ic_project"/>
+</menu>
